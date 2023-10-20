@@ -3,6 +3,17 @@
             background-color: #f9f9f9;
             font-family: Arial, sans-serif;
         }
+        .navbar-brand {
+            margin: 10px;
+            font-family: Satisfy;
+            font-size: 1.8em;
+        }
+        .navbar-brand:hover {
+            transform: scale(1.07,1.07);
+        }
+        .confirmYellow {
+            color: hsl(51, 96%, 41%);
+        }
 
         .hero-section {
             background: url('assets/heroSensua.png') no-repeat center center;
